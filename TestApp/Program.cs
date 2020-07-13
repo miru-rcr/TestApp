@@ -12,6 +12,7 @@ namespace TestApp
         {
             //changes
             //changes in third branch
+            //another commit
         }
     }
 }
